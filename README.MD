@@ -16,7 +16,7 @@ Java SDK, Eclipse IDE and AWS Java SDK.
 
 ## Authors
 
-* **Blin Kazazi** - [PurpleBooth](https://github.com/vpblin)
+* **Blin Kazazi** - [VPBLIN](https://github.com/vpblin)
 
 ## License
 
